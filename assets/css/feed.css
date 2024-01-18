@@ -270,4 +270,5 @@
 .footerbox {
   background: rgba(45, 60, 174, 0.53);
   padding: 13px 24px;
+  cursor: pointer;
 }
